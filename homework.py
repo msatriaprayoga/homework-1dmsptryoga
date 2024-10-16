@@ -6,7 +6,7 @@ tempat_lahir = str(input('Tempat Lahir : '))
 agama = str(input('Agama : '))
 umur = int(input('Umur : '))
 pekerjaan = str(input('Pekerjaan : '))
-gaji_perbulan = int(input('Gaji_perbulan : '))
+gaji_perbulan = int(input('Gaji perbulan : '))
 jumlah_anak = int(input('Jumlah anak : '))
 
 daftar_pekerjaan = ['Guru','Tni','Polisi']
