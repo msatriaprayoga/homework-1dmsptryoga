@@ -5,4 +5,4 @@
 # Membuat data desa dan warganya dengan cara mengisi data diri dan kriteria untuk mendapatkan bantuan PKH.
 
 # FLOWCHART
-![flowchart]()
+![flowchart](https://github.com/msatriaprayoga/homework-1dmsptryoga/blob/main/flowchart.png)
